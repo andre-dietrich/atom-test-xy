@@ -1,6 +1,6 @@
 {
   "name": "atom-test-xy",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Nothing special",
   "main": "index.js",
   "scripts": {
