@@ -1,0 +1,22 @@
+{
+  "name": "atom-test-xy",
+  "version": "0.0.0",
+  "description": "Nothing special",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/andre-dietrich/atom-test-xy.git",
+  "keywords": [
+    "test"
+  ],
+  "author": "",
+  "license": "UNLICENSED",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/andre-dietrich/atom-test-xy/issues"
+  },
+  "homepage": "https://github.com/andre-dietrich/atom-test-xy#readme"
+}
